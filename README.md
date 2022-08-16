@@ -22,7 +22,7 @@ example report for a
 
 
 # Result
-You can see [here](https://github.com/fiqgant/MLOps-Wine/commit/48ceec103850380838126ac87bbcb39491de941e#comments)
+You can see [here](https://github.com/fiqgant/MLOps-Wine/commit/48ceec103850380838126ac87bbcb39491de941e#commitcomment-81284261s)
 
 ## Model Metrics
 Training variance explained: 70.2%
