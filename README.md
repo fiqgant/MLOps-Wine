@@ -26,6 +26,7 @@ You can see [here](https://github.com/fiqgant/MLOps-Wine/commit/48ceec1038503808
 
 ## Model Metrics
 Training variance explained: 70.2%
+
 Test variance explained: 39.5%
 
 ## Data Visualization
